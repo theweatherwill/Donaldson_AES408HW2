@@ -1,0 +1,12 @@
+[workspace]
+authors = ["theweatherwill <theweatherwill@gmail.com>"]
+channels = ["conda-forge"]
+name = "Donaldson_AES408HW2"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+pandas = ">=3.0.0,<4"
+geopandas = ">=1.1.2,<2"
