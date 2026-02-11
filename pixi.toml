@@ -10,4 +10,7 @@ version = "0.1.0"
 [dependencies]
 pandas = ">=3.0.0,<4"
 geopandas = ">=1.1.2,<2"
+<<<<<<< HEAD
 ipykernel = ">=7.1.0,<8"
+=======
+>>>>>>> 76951a4c015d57b5fde3c5533f980c195edd45b8
